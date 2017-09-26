@@ -1,7 +1,7 @@
 ## 项目说明
 本项目是参照**Flask Web开发**一书中Flasky项目实战编写，以加深对Flask框架的使用和理解；
 
-img
+![Flask Web.jpg](http://upload-images.jianshu.io/upload_images/5903030-1862547cd40fb7f5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 学习笔记
 
