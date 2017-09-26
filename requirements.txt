@@ -1,0 +1,11 @@
+flask-sqlalchemy
+flask-bootstrap==3.3.7.1
+flask-wtf==0.9.2
+flask-script
+flask-migrate
+flask-login
+flask-mail
+flask-moment
+flask-pagedown
+markdown
+bleach
